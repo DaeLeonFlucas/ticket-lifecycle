@@ -76,13 +76,13 @@ By clicking on a ticket, you will access the ticket details, showing how they ap
 <img src="https://imgur.com/Pv79vQb.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Using the options above, we can adjust the ticket as needed. Any changes will be displayed in the 'Ticket Thread'.
+By using the available options, we can modify the ticket as required. All changes will be reflected in the ‘Ticket Thread’.
 </p>
 <p>
 <img src="https://imgur.com/wkzyijU.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The Agent can also message the End User through the Ticket Thread to update the User or other Agents about the status of the ticket. At the bottom, you can also adjust the Ticket's Status if the issues have been resolved. 
+Agents can also send messages to the End User through the Ticket Thread to keep them and other Agents informed about the ticket’s progress. Furthermore, the Ticket’s Status can be modified at the bottom of the thread if the issue has been addressed.
 </p>
 <p>
 <img src="https://imgur.com/SIceVh9.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
@@ -94,17 +94,17 @@ The Agent can also message the End User through the Ticket Thread to update the 
 
 <h2>Resolution</h2>
 <p>
-Continuing with the ticket's issue, we have left a response to the fact that our website is currently down. Since this is a high-priority and high-impact ticket, we must resolve it right away. Once a solution has been found we can post a reply to let the user know and finally resolve and close the ticket.
+In response to the ongoing ticket issue, we have noted that our website is currently down. Given that this is a high-priority and high-impact ticket, it requires immediate attention. Once we find a solution, we can reply to inform the user and proceed to resolve and close the ticket.
 </p>
 <p>
 <img src="https://imgur.com/MAo0XOp.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Any open tickets that are resolved become closed tickets and are then moved into the 'Closed Ticket' queue where the information and status of the ticket are archived. 
+Once open tickets are resolved, they transition to closed status and are moved to the ‘Closed Ticket’ queue, where their information and status are archived.
 </p>
 <p>
 <img src="https://imgur.com/10ftEPH.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Congratulations! You now understand the Ticket Lifecycle! This concludes the lab!
+Congratulations! You now have a comprehensive understanding of the Ticket Lifecycle! This finishes our lab session!
 </p>

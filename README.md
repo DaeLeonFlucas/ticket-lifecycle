@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. This tutorial assumes you have completed both the Prerequisites and Installation lab and Post-Installation Configuration lab.<br />
+In this guide, we’ll explore the full ticket lifecycle within osTicket, from the moment a ticket is created until it’s resolved. This tutorial is designed for users who have previously finished both the Prerequisites and Installation lab and the Post-Installation Configuration lab.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -25,30 +25,30 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Intake</h2>
 <p>
-To create a ticket you must navigate to the osTicket Support Center site and click on 'Open a New Ticket'.
+To begin creating a ticket, go to the osTicket Support Center and select Open a New Ticket.
 </p>
 <p>
 <img src="https://imgur.com/etLVCqe.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Using the information of the two users created in the previous osTicket lab (Ken and Karen), we will create two separate tickets.
+Using the accounts for Ken and Karen created in the prior osTicket lab, we will generate two separate tickets.
 </p>
 <p>
-End users can select the specific 'Help Topic' to categorize the issue or request of their ticket. Then an 'Issue Summary' is created to allow understanding of a ticket at a glance. Next describe the issue you are having within the text box below and upload any necessary files to help explain the situation such as screenshots. Once the ticket has been filled out, click on 'Create Ticket'.
+Users can select a Help Topic that best categorizes their issue or request. An Issue Summary is added to give a quick understanding of the ticket. Describe the issue in the textbox below, and attach any relevant files, such as screenshots, to support your request. Once all details are entered, click on Create Ticket to submit.
 
-Below you can see we have filled out a ticket as 'ken' who is having a 'Personal Computer Issue'.
+Here, you can see a completed ticket for ken, who has reported a Personal Computer Issue.
 </p>
 <p>
 <img src="https://imgur.com/tkJlZhS.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The next ticket will be made as 'karen' and categorized as a 'Business Critical Outage'. Once the tickets have been created they will be sent to the Agents' queue to be resolved.
+The following ticket will be submitted by karen and classified as a Business Critical Outage. After creating the tickets, they will be directed to the Agents’ queue for resolution.
 </p>
 <p>
 <img src="https://imgur.com/AI8PlFl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Logging into osTicket as 'jane doe' we can see the previously made tickets appear in the open ticket queue, ready to be resolved.
+After logging into osTicket as jane doe, you will notice that the previously created tickets are listed in the open ticket queue, awaiting resolution.
 </p>
 <p>
 <img src="https://imgur.com/MTUc700.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
@@ -58,7 +58,7 @@ Logging into osTicket as 'jane doe' we can see the previously made tickets appea
 
 <h2>Assignment and Communication</h2>
 <p>
-Clicking on a ticket takes us to the ticket details, this is how the tickets appear from jane doe's perspective. As jane doe, you can click on the various options in the ticket and adjust them as needed. The options include the ticket's Status, Priority, Department, Assigned To, and SLA plan. If we click on each of these things, we can adjust them according to the ticket's priority or impact.
+By clicking on a ticket, you will access the ticket details, showing how they appear from jane doe’s perspective. As jane doe, you have the ability to modify various options associated with the ticket, such as Status, Priority, Department, Assigned To, and SLA plan. By selecting each of these fields, adjustments can be made based on the ticket’s priority or impact.
 </p>
 <p>
 <img src="https://imgur.com/5QChbaj.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
